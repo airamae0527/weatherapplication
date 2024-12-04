@@ -1,0 +1,48 @@
+body{
+    background-image: url(img/bg.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.date{
+    right: 12%;
+    font-size: 40px;
+    bottom: 12%;
+    position: absolute;
+}
+
+.main{
+    position: absolute;
+    top: 15%;
+    left: 8%;
+
+}
+.a{
+    right:15%;
+    font-size:60px;
+    top:75%;
+    position: absolute;
+}
+
+.p{
+    right:13%;
+    font-size:160px;
+    top:57% ;
+    position: absolute;
+}
+
+.place{
+    font-size: 150px;
+    position: absolute;
+    top: 3%;
+}
+
+.footer{
+    position: absolute;
+    text-align: center;
+    bottom: 3%;
+    right:43%
+       
+}
